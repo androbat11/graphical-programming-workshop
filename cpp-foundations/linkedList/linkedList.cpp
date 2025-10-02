@@ -65,7 +65,7 @@ class LinkedList {
                     currentNode->data = newNodeData;
                     return;
                 }
-                // currentNode = currentNode->getNextNode();
+                currentNode = currentNode->getNextNode();
             }
            
         }
