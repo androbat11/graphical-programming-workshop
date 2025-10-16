@@ -1,0 +1,17 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executable files
+agenda_app
+*.exe
+*.out
+*.app
+
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
